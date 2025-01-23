@@ -12,7 +12,8 @@
     "@hapi/boom": "^10.0.1",
     "@whiskeysockets/baileys": "^6.7.9",
     "axios": "^1.7.9",
-    "dotenv": "^16.4.7",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7",
     "qrcode-terminal": "^0.12.0"
   }
 }
